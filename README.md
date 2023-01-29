@@ -1,2 +1,2 @@
-# Gatsby-Blog
-Gatsby-Blog
+# Gatsby-Site
+Gatsby-Site
